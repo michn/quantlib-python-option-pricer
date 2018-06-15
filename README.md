@@ -20,7 +20,7 @@ There are two files in this project.
     
     
 Assumptions:
-  a. Volatility formula is based on realized volatility of 92 days of historical prices
-  b. Actual 365 fixed day count used for calcualtions
-  c. United States trading calendar used
-  d. Risk-free-rate is always supplied 
+  a: Volatility formula is based on realized volatility of 92 days of historical prices
+  b: Actual 365 fixed day count used for calcualtions
+  c: United States trading calendar used
+  d: Risk-free-rate is always supplied 
